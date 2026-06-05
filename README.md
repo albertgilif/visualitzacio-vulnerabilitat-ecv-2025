@@ -8,7 +8,7 @@ La visualització analitza la vulnerabilitat residencial i energètica de les ll
 
 La visualització final s’ha creat amb Flourish i està disponible públicament en aquest enllaç:
 
-https://public.flourish.studio/story/3679965/
+https://public.flourish.studio/story/3699218/
 
 ## Font de dades
 
